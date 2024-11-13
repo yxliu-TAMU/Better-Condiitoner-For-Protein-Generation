@@ -23,5 +23,4 @@ To do list:
 3. SOlve the over-fitting issue of some models. (Michael Xu)
 4. If we have time, consider the Generalizability. How to generate samples not within any training classes. (Michael Xu, Yuxuan Liu)
 5. Test the plain classifier's guidance performance. (Yuxuan Liu)
-6. Improve the classifier's guidance performancce without training on noisy structure follow the idea from this paper: https://openreview.net/pdf?id=9DXXMXnIGm
-
+6. Improve the classifier's guidance performancce without training on noisy structure follow the idea from this paper: https://openreview.net/pdf?id=9DXXMXnIGm (Yuxuan Liu)
